@@ -1,0 +1,1 @@
+# Analyzing-Power-Law-Distributions-of-Patents-as-Indicators-of-Innovation
